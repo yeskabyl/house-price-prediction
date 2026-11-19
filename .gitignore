@@ -1,0 +1,10 @@
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# CatBoost training logs
+catboost_info/
+
+# Kaggle data is not redistributable: download it yourself (see README)
+data/

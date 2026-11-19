@@ -1,0 +1,10 @@
+# Python >= 3.10
+# Minimum versions are what the notebook needs; exact tested versions are listed in README.md.
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.4
+catboost>=1.2.5
+shap>=0.45
+jupyter>=1.0
